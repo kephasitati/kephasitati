@@ -11,8 +11,8 @@
 
 ## GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vycek&title=Stars,Followers,Repositories,Commits,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kephasitati&title=Stars,Followers,Repositories,Commits,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vycek&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kephasitati&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
