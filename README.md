@@ -1,7 +1,8 @@
 # Hi, I'm Sitati! 👋
 
-- 👀 I’m interested in AWS Cloud Solutions (IaC)
-- 🌱 I’m currently learning Linux, Python, Solutions Architecture, and HTML.
+- 👀 I’m interested in Software Engineering, Front End
+- AWS Cloud Solutions (IaC)
+- 🌱 I’m currently learning Front End, Solutions Architecture, and AI.
 - 💞️ I’m looking to collaborate on creating scalable, reliable, and affordable cloud solutions.
 - 📫 How to reach me: Email [kephasitati@gmail.com](mailto:kephasitati@gmail.com).
 
