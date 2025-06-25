@@ -1,6 +1,6 @@
 # Hi, I'm Sitati! 👋
 
-- 👀 I’m interested in Software Engineering, Front End  
+- 👀 I’m interested in building clean, efficient and scalable applications
 - ☁️ AWS Cloud Solutions (IaC, DevOps)  
 - 🌱 Currently learning Front End, Solutions Architecture & AI  
 - 🤝 Looking to collaborate on scalable, reliable & affordable cloud-based tools  
