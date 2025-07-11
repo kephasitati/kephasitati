@@ -14,7 +14,7 @@
 [![X](https://img.shields.io/badge/X-Follow-1DA1F2?style=flat-square&logo=twitter)](https://x.com/djvycek)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kepha6t/?hl=en)
 [![Discord](https://img.shields.io/badge/Discord-vycek-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30892871/kepha-sitati)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Connect-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30892871/kepha-sitati)
 
 ---
 
