@@ -46,7 +46,7 @@
 
 [![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=kephasitati&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ---
 
