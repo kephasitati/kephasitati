@@ -44,7 +44,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kephasitati&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kephasitati&theme=radical&hide_border=true&cache_seconds=86400)](https://github.com/kephasitati)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kephasitati&theme=radical&hide_border=true)](https://github.com/kephasitati)
 
 ---
 
