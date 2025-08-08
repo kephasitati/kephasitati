@@ -46,6 +46,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kephasitati&theme=radical)](https://git.io/streak-stats)
 
+![Kepha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kephasitati&show_icons=true&theme=radical)
+
+
 ---
 
 ## 📈 Visitor Count
