@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in building clean, efficient and scalable applications
 - ☁️ AWS Cloud Solutions (IaC, DevOps)  
-- 🌱 Currently learning Front End, Solutions Architecture & AI  
+- 🌱 Currently learning front-end, Solutions Architecture & AI  
 - 🤝 Looking to collaborate on scalable, reliable & affordable cloud-based tools  
 - 📫 Reach me: [kephasitati@gmail.com](mailto:kephasitati@gmail.com)
 
